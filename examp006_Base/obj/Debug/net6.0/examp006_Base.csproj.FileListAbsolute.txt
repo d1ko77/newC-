@@ -1,0 +1,15 @@
+C:\Users\d1ko\Desktop\aaa\examp006_Base\obj\Debug\net6.0\examp006_Base.csproj.AssemblyReference.cache
+C:\Users\d1ko\Desktop\aaa\examp006_Base\obj\Debug\net6.0\examp006_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d1ko\Desktop\aaa\examp006_Base\obj\Debug\net6.0\examp006_Base.AssemblyInfoInputs.cache
+C:\Users\d1ko\Desktop\aaa\examp006_Base\obj\Debug\net6.0\examp006_Base.AssemblyInfo.cs
+C:\Users\d1ko\Desktop\aaa\examp006_Base\obj\Debug\net6.0\examp006_Base.csproj.CoreCompileInputs.cache
+C:\Users\d1ko\Desktop\aaa\examp006_Base\bin\Debug\net6.0\examp006_Base.exe
+C:\Users\d1ko\Desktop\aaa\examp006_Base\bin\Debug\net6.0\examp006_Base.deps.json
+C:\Users\d1ko\Desktop\aaa\examp006_Base\bin\Debug\net6.0\examp006_Base.runtimeconfig.json
+C:\Users\d1ko\Desktop\aaa\examp006_Base\bin\Debug\net6.0\examp006_Base.dll
+C:\Users\d1ko\Desktop\aaa\examp006_Base\bin\Debug\net6.0\examp006_Base.pdb
+C:\Users\d1ko\Desktop\aaa\examp006_Base\obj\Debug\net6.0\examp006_Base.dll
+C:\Users\d1ko\Desktop\aaa\examp006_Base\obj\Debug\net6.0\refint\examp006_Base.dll
+C:\Users\d1ko\Desktop\aaa\examp006_Base\obj\Debug\net6.0\examp006_Base.pdb
+C:\Users\d1ko\Desktop\aaa\examp006_Base\obj\Debug\net6.0\examp006_Base.genruntimeconfig.cache
+C:\Users\d1ko\Desktop\aaa\examp006_Base\obj\Debug\net6.0\ref\examp006_Base.dll

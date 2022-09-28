@@ -1,0 +1,15 @@
+C:\Users\d1ko\Desktop\aaa\examp005_if_else\bin\Debug\net6.0\examp005_if_else.exe
+C:\Users\d1ko\Desktop\aaa\examp005_if_else\bin\Debug\net6.0\examp005_if_else.deps.json
+C:\Users\d1ko\Desktop\aaa\examp005_if_else\bin\Debug\net6.0\examp005_if_else.runtimeconfig.json
+C:\Users\d1ko\Desktop\aaa\examp005_if_else\bin\Debug\net6.0\examp005_if_else.dll
+C:\Users\d1ko\Desktop\aaa\examp005_if_else\bin\Debug\net6.0\examp005_if_else.pdb
+C:\Users\d1ko\Desktop\aaa\examp005_if_else\obj\Debug\net6.0\examp005_if_else.csproj.AssemblyReference.cache
+C:\Users\d1ko\Desktop\aaa\examp005_if_else\obj\Debug\net6.0\examp005_if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d1ko\Desktop\aaa\examp005_if_else\obj\Debug\net6.0\examp005_if_else.AssemblyInfoInputs.cache
+C:\Users\d1ko\Desktop\aaa\examp005_if_else\obj\Debug\net6.0\examp005_if_else.AssemblyInfo.cs
+C:\Users\d1ko\Desktop\aaa\examp005_if_else\obj\Debug\net6.0\examp005_if_else.csproj.CoreCompileInputs.cache
+C:\Users\d1ko\Desktop\aaa\examp005_if_else\obj\Debug\net6.0\examp005_if_else.dll
+C:\Users\d1ko\Desktop\aaa\examp005_if_else\obj\Debug\net6.0\refint\examp005_if_else.dll
+C:\Users\d1ko\Desktop\aaa\examp005_if_else\obj\Debug\net6.0\examp005_if_else.pdb
+C:\Users\d1ko\Desktop\aaa\examp005_if_else\obj\Debug\net6.0\examp005_if_else.genruntimeconfig.cache
+C:\Users\d1ko\Desktop\aaa\examp005_if_else\obj\Debug\net6.0\ref\examp005_if_else.dll
