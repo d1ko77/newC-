@@ -1,0 +1,15 @@
+C:\Users\d1ko\Desktop\aaa\examp001_HelloCosole\examp002_HelloUser\obj\Debug\net6.0\examp002_HelloUser.csproj.AssemblyReference.cache
+C:\Users\d1ko\Desktop\aaa\examp001_HelloCosole\examp002_HelloUser\obj\Debug\net6.0\examp002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d1ko\Desktop\aaa\examp001_HelloCosole\examp002_HelloUser\obj\Debug\net6.0\examp002_HelloUser.AssemblyInfoInputs.cache
+C:\Users\d1ko\Desktop\aaa\examp001_HelloCosole\examp002_HelloUser\obj\Debug\net6.0\examp002_HelloUser.AssemblyInfo.cs
+C:\Users\d1ko\Desktop\aaa\examp001_HelloCosole\examp002_HelloUser\obj\Debug\net6.0\examp002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\d1ko\Desktop\aaa\examp001_HelloCosole\examp002_HelloUser\bin\Debug\net6.0\examp002_HelloUser.exe
+C:\Users\d1ko\Desktop\aaa\examp001_HelloCosole\examp002_HelloUser\bin\Debug\net6.0\examp002_HelloUser.deps.json
+C:\Users\d1ko\Desktop\aaa\examp001_HelloCosole\examp002_HelloUser\bin\Debug\net6.0\examp002_HelloUser.runtimeconfig.json
+C:\Users\d1ko\Desktop\aaa\examp001_HelloCosole\examp002_HelloUser\bin\Debug\net6.0\examp002_HelloUser.dll
+C:\Users\d1ko\Desktop\aaa\examp001_HelloCosole\examp002_HelloUser\bin\Debug\net6.0\examp002_HelloUser.pdb
+C:\Users\d1ko\Desktop\aaa\examp001_HelloCosole\examp002_HelloUser\obj\Debug\net6.0\examp002_HelloUser.dll
+C:\Users\d1ko\Desktop\aaa\examp001_HelloCosole\examp002_HelloUser\obj\Debug\net6.0\refint\examp002_HelloUser.dll
+C:\Users\d1ko\Desktop\aaa\examp001_HelloCosole\examp002_HelloUser\obj\Debug\net6.0\examp002_HelloUser.pdb
+C:\Users\d1ko\Desktop\aaa\examp001_HelloCosole\examp002_HelloUser\obj\Debug\net6.0\examp002_HelloUser.genruntimeconfig.cache
+C:\Users\d1ko\Desktop\aaa\examp001_HelloCosole\examp002_HelloUser\obj\Debug\net6.0\ref\examp002_HelloUser.dll
